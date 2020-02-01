@@ -1,3 +1,5 @@
+// Необходимо написать программу, которая будет выводить на экран текстовые данные из файла .txt
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
